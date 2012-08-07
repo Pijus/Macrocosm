@@ -1,0 +1,25 @@
+#License:
+
+Macrocosm is the work of Patrick Voorhis and may be redistributed under the 
+terms of the Apache-2.0 license, found at http://www.apache.org/licenses/LICENSE-2.0
+
+
+#About:
+
+It's a game where you walk around and do stuff.
+
+
+#Installation:
+
+Just run the macrocosm.py file.
+
+
+#Dependencies:
+
+Python 2.7.3
+PyGame 1.9.1
+
+
+#Change log:
+
+No changes just yet.
